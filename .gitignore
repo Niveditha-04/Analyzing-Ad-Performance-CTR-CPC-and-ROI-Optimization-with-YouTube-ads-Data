@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.ipynb_checkpoints
+.env
+.DS_Store
+
+# data
+data/*.csv
+data/*.zip
+!data/sample_schema.csv
