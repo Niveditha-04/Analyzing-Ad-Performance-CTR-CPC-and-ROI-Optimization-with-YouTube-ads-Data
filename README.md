@@ -1,4 +1,4 @@
-# Analyzing-Ad-Performance-CTR-CPC-and-ROI-Optimization-with-YouTube-ads-Data
+
 A simulated data analytics project using YouTube Ads dataset: BigQuery + SQL, Python cleanup, and a Looker Studio dashboard.
 I built a small, end-to-end analytics project to practice paid-media reporting: raw (simulated) data → SQL/BigQuery modeling → Python cleanup → a Looker Studio dashboard.
 **Goal of this project:** To measure ad performance (like impressions, engagement, conversions, ROI, ROAS) and to explore patterns by country, device, and language.
